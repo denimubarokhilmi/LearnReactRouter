@@ -8,6 +8,7 @@ export default function Navbar() {
 
   return (
     <div className="container">
+      <h1>navbar</h1>
       <nav>
         <ul>
           <li>

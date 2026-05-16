@@ -9,6 +9,7 @@ export default defineConfig({
       input: {
         index: "index.html",
         redux: "redux.html",
+        reduxToolkit: "reduxToolkit.html",
       },
     },
   },
