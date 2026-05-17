@@ -10,6 +10,7 @@ export default defineConfig({
         index: "index.html",
         redux: "redux.html",
         reduxToolkit: "reduxToolkit.html",
+        zustand: "zustand.html",
       },
     },
   },
